@@ -1,5 +1,5 @@
 
-```markdown
+```
 # checkport
 
 [![GitHub release](https://img.shields.io/github/release/watcher1337/checkport.svg)](https://github.com/watcher1337/checkport/releases/latest)
