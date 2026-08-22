@@ -30,7 +30,7 @@ checkport -h               # Show help
 
 
 ## Options
-
+```
 Option	Description
 -c, --check PORT	Check if port is in use
 -k, --kill PORT	Kill process on port
