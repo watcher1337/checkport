@@ -25,3 +25,17 @@ checkport -k 8080          # Kill process on port
 checkport --list           # List all listening ports
 checkport --scan 8000-8100 # Scan port range
 checkport -h               # Show help
+
+
+
+
+## Options
+
+Option	Description
+-c, --check PORT	Check if port is in use
+-k, --kill PORT	Kill process on port
+--list	List all listening ports
+--scan RANGE	Scan port range (e.g., 8000-8100)
+--force	Force kill process
+-v, --verbose	Verbose output
+--no-color	Disable colors
