@@ -1,14 +1,4 @@
-Looking at the README content, I can see a few syntax issues that need fixing:
 
-## Issues Found:
-
-1. **Incorrect backtick escaping** in the "Even Shorter Version" section - there are extra backticks around the bash code block
-2. **Missing language specifier** for the code block in the shorter version
-3. **Inconsistent indentation** in the options table
-
-## Fixed Version:
-
-```markdown
 # checkport
 
 [![GitHub release](https://img.shields.io/github/release/watcher1337/checkport.svg)](https://github.com/watcher1337/checkport/releases/latest)
@@ -89,8 +79,6 @@ MIT
 
 ## Even Shorter Version (One-Liner)
 
-If you want the absolute minimum:
-
 ```markdown
 # checkport
 
@@ -112,18 +100,3 @@ checkport --scan 8000-8100  # Scan range
 [GitHub](https://github.com/watcher1337/checkport)
 ```
 
----
-
-## Key Fixes Made:
-
-1. **Removed extra backticks** in the shorter version's code block
-2. **Added `bash` language specifier** to both code blocks in the shorter version
-3. **Kept consistent formatting** throughout
-4. **Properly closed all code blocks** with triple backticks
-
-The original had:
-- Extra backticks that would break markdown rendering
-- Missing language specifiers that could affect syntax highlighting
-- Inconsistent code block formatting
-
-Now both versions render correctly in any markdown viewer!
