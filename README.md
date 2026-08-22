@@ -41,3 +41,8 @@ pip install checkport
 
 # Install using pipx (recommended for CLI tools)
 pipx install checkport
+
+# Install using uv
+uv tool install checkport
+
+
