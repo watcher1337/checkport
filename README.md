@@ -16,3 +16,12 @@ pip install checkport
 pipx install checkport
 # or
 uv tool install checkport
+```
+## 📖 Usage
+
+```bash
+checkport -c 8080          # Check if port is in use
+checkport -k 8080          # Kill process on port
+checkport --list           # List all listening ports
+checkport --scan 8000-8100 # Scan port range
+checkport -h               # Show help
