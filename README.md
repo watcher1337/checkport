@@ -4,7 +4,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/watcher1337/checkport/releases)
 
-**A powerful port management tool for checking and killing processes running on specific ports. Cross-platform and easy to use.**
+**A powerful port management tool for checking and killing processes running on specific ports. 
+Cross-platform and easy to use.**
 
 ---
 
