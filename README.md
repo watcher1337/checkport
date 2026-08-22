@@ -16,7 +16,7 @@
 - [Quick Install](#-quick-install)
 - [Usage](#-usage)
 - [Examples](#-examples)
-- [Building from Source](#-building-from-source)
+
 
 ---
 
