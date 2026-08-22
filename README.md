@@ -12,10 +12,9 @@
 ## 🚀 Quick Install
 
 ```bash
-pip install checkport
-# or
 pipx install checkport
-# or
+```
+```bash
 uv tool install checkport
 ```
 
