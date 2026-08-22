@@ -18,6 +18,11 @@ pipx install checkport
 uv tool install checkport
 ```
 
+
+### Windows
+
+Download `fixtime.exe` from [releases](https://github.com/watcher1337/checkport/releases/latest)
+
 ---
 
 ## 📖 Usage
