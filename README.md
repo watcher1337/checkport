@@ -66,37 +66,6 @@ checkport --scan 8000-8100
 
 ---
 
-## 📝 License
 
-MIT
 
-## 👤 Author
-
-**watcher1337** · [GitHub](https://github.com/watcher1337)
-```
-
----
-
-## Even Shorter Version (One-Liner)
-
-```markdown
-# checkport
-
-Port management tool for checking and killing processes.
-
-## Install
-```bash
-pip install checkport
-```
-
-## Usage
-```bash
-checkport -c 8080  # Check port
-checkport -k 8080  # Kill process on port
-checkport --list   # List all ports
-checkport --scan 8000-8100  # Scan range
-```
-
-[GitHub](https://github.com/watcher1337/checkport)
-```
 
